@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_novapalavra"
+        android:title="@string/action_novapalavra"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/action_editardicionario"
+        android:title="@string/action_editardicionario"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/action_listardicionario"
+        android:title="@string/action_listardicionario"
+        app:showAsAction="always"
+        />
+
+</menu>
