@@ -3,11 +3,11 @@
  
  Com o aplicativo é possível falar palavras por áudio em inglês e adicionar seu significado em português.
 
-### Print screen de tela
-https://goo.gl/photos/ouPBJvjqNL9ZNTN66
+### Preview app
+Confira um preview das telas do app __[aqui](img/imagens.md)__
 
 ### Download app
-https://mega.nz/#F!WJxj0L4R!0nlwpj5NPnMJ5o1-GBun0w
+__[Android](https://mega.nz/#F!WJxj0L4R!0nlwpj5NPnMJ5o1-GBun0w)__
 
 ### Version
 2.0.0
